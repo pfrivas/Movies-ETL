@@ -22,6 +22,6 @@ The focus of this project was to build a program that would take in large source
 - [Deliverable 3: Cleaned Kaggle Data](https://github.com/pfrivas/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
 - [Deliverable 4: Database Creation](https://github.com/pfrivas/Movies-ETL/blob/main/ETL_create_database.ipynb)
 - [Deliverable 4: Movies Query](https://github.com/pfrivas/Movies-ETL/blob/main/Resources/movies_query.png)
-- [Deliverable 4: Ratings Query](https://github.com/pfrivas/Movies-ETL/blob/main/Resources/movies_query.png)
+- [Deliverable 4: Ratings Query](https://github.com/pfrivas/Movies-ETL/blob/main/Resources/ratings_query.png)
 
 
